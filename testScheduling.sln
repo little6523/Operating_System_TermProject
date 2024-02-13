@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "testScheduling", "testScheduling\testScheduling.pyproj", "{485C928B-E2E1-4793-8061-DFA4D7429692}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{485C928B-E2E1-4793-8061-DFA4D7429692}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{485C928B-E2E1-4793-8061-DFA4D7429692}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {82FEBFCE-0AC6-41D7-9F5A-AC7C9D901D7B}
+	EndGlobalSection
+EndGlobal
